@@ -1,0 +1,37 @@
+*
+
+# index.html
+!index.html
+
+# Source file
+!src
+!src/*
+!src/**/*.ts
+!src/**/*.tsx
+
+# Storybook
+!.storybook
+!.storybook/*
+!.storybook/**/*.js
+!.storybook/**/*.json
+!.storybook/**/*.html
+
+# .eslintrc.yaml
+!.eslintrc.yaml
+
+# .prettierrc.yaml
+!.prettierrc.yaml
+
+# package.json
+!package.json
+!package-lock.json
+
+# tsconfig.json
+!tsconfig.json
+!tsconfig.node.json
+
+# Vite Config
+vite.config.ts
+
+# Jest Config
+jest.config.ts

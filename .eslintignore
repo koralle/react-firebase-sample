@@ -1,0 +1,24 @@
+*
+
+# Source
+!src
+!src/*
+!src/**/*.ts
+!src/**/*.tsx
+
+# Storybook
+!.storybook
+!.storybook/*
+!.storybook/**/*.js
+
+# Vite Config
+!vite.config.ts
+
+# Jest Config
+!jest.config.ts
+
+# Test
+!__tests__
+!__tests__/*
+!__tests__/**/*.ts
+!__tests__/**/*.tsx
